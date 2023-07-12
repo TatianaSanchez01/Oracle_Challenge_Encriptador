@@ -25,7 +25,7 @@ main {
     margin-top: 50px;
     text-transform: lowercase;
     width: 700px;
-    height: 230px;
+    height: 320px;
 }
 ::placeholder {
     color: #0a3871;
@@ -36,8 +36,8 @@ main {
 }
 
 .text-area-msg {
-    height: 310px;
-    width: 350px;
+    height: 510px;
+    width: 410px;
     background: #fff;
     background-image: url("images/encriptador.png");
     background-repeat: no-repeat;
